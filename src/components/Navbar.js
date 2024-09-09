@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import logoImage from '/Users/mackbook/Documents/Pharmapp/readyrx/src/assets/images/2024-08-23.jpg';
+import logoImage from '/Users/mackbook/Documents/Pharmapp/readyrx/src/2024-08-23.jpg';
 
 const NavbarContainer = styled.nav`
   position: sticky;
